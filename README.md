@@ -4,9 +4,13 @@ Bot de inteligência artificial para Discord, mantido por **pyyrho**, com conver
 
 Este repositório reúne a apresentação e o guia de uso do Revolutx. O código-fonte e a hospedagem do bot são privados; esta página não distribui plugins ou uma versão para executar por conta própria.
 
+Site: [revolutxbot.netlify.app](https://revolutxbot.netlify.app/).
+
 ## Módulos
 
 ### Conversa e estudo
+
+As respostas priorizam texto corrido e explicações curtas. O registro acadêmico aparece quando o assunto pede rigor; uma pergunta simples não abre uma pesquisa extensa automaticamente. Para consultar fontes, peça explicitamente “pesquise sobre…” ou “busque fontes sobre…”. Notícias e fatos atuais usam pesquisa externa, com referências quando há resultados recuperados. A disponibilidade depende das cotas dos serviços. O horário de referência inclui o fuso utilizado pelo bot.
 
 Conversa por menção ao bot ou em canais ativados pela administração. Inclui preferências de estilo e nível acadêmico, controle de memórias, leitura de documentos e sessões de estudo. O modo acadêmico integra buscas em fontes como arXiv, Crossref, Europe PMC, OpenAlex, PubMed e Semantic Scholar; a disponibilidade depende dos serviços e das credenciais configuradas.
 
